@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning at PES University, currently exploring Generative AI and full-stack development.
+I’m a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning at PES University. I enjoy building AI-powered and full-stack applications, exploring Generative AI, and learning by working on real-world projects.
 
 
 ## 🌐 Socials:
