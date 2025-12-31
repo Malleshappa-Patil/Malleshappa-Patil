@@ -1,18 +1,43 @@
-# 💫 About Me:
-I’m a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning at PES University. I enjoy building AI-powered and full-stack applications, exploring Generative AI, and learning by working on real-world projects.
+# 👋 Hi, I'm Malleshappa D Patil
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malleshappa-d-patil-60719227a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malleshappapatil1@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Malleshappa-Patil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Malleshappa-Patil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malleshappa-Patil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **B.Tech Computer Science (AI & ML)** @ PES University, Bangalore  
+💡 Interested in **AI Systems, Full Stack Development, and Applied Machine Learning**  
+🛠️ I enjoy building **real-world, production-oriented projects** combining AI + backend + frontend
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Malleshappa-Patil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malleshappa-d-patil-60719227a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdpatil2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Malleshappa-Patil)
+
+---
+
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+- **C++**, **Python**, **SQL**
+
+### 🌐 Full Stack Development
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- Flask, REST APIs, JWT Authentication
+
+### 🤖 AI / Machine Learning
+- Pandas, NumPy, Scikit-learn
+- NLP, Prompt Engineering, RAG Pipelines
+- Hugging Face, LangChain, GPT4All
+
+### 🛠️ Tools & Platforms
+- Git & GitHub, Docker, MySQL
+- VS Code, Kaggle
+
+### 📚 CS Fundamentals
+- Data Structures & Algorithms
+- Operating Systems, DBMS, Computer Networks
+- Applied Cryptography & Blockchain
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malleshappa-Patil&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malleshappa-Patil&layout=compact&theme=dark)
