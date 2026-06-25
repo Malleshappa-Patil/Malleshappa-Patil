@@ -16,25 +16,20 @@
 ## 🧠 Skills & Technologies
 
 ### 💻 Programming Languages
-- **C++**, **Python**, **SQL**
+- **Python**, **SQL**
 
 ### 🌐 Full Stack Development
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- Flask, REST APIs, JWT Authentication
+- FastAPI, REST APIs, JWT Authentication
 
 ### 🤖 AI / Machine Learning
-- Pandas, NumPy, Scikit-learn
-- NLP, Prompt Engineering, RAG Pipelines
-- Hugging Face, LangChain, GPT4All
+- Pandas, NumPy
+- Prompt Engineering, RAG Pipelines
+- Hugging Face, LangChain, LangGraph
 
 ### 🛠️ Tools & Platforms
-- Git & GitHub, Docker, MySQL
-- VS Code, Kaggle
-
-### 📚 CS Fundamentals
-- Data Structures & Algorithms
-- Operating Systems, DBMS, Computer Networks
-- Applied Cryptography & Blockchain
+- Git & GitHub, Docker, MySQL, Databricks
+- VS Code
 
 ---
 
