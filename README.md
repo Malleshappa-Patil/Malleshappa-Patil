@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Malleshappa D Patil
 
-🎓 **B.Tech Computer Science (AI & ML)** @ PES University, Bangalore  
 💡 Interested in **AI Systems, Full Stack Development, and Applied Machine Learning**  
+🚀 Exploring the latest **Generative AI tools, frameworks, and workflows**, and building **production-ready AI applications**  
 🛠️ I enjoy building **real-world, production-oriented projects** combining AI + backend + frontend
 
 ---
